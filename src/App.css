@@ -5,4 +5,9 @@
   align-items: center;
   height: 100vh;
   background-color: blanchedalmond;
+  overflow: auto;
+}
+
+body{
+  overflow: hidden;
 }

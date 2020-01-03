@@ -1,6 +1,5 @@
 import React from 'react';
 import {RealtimeCameraView} from './RealtimeCameraView';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -12,3 +11,4 @@ function App() {
 }
 
 export default App;
+  
