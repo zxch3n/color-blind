@@ -1,13 +1,13 @@
 .App {
+  padding: 30px 0px;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   background-color: blanchedalmond;
-  overflow: auto;
 }
 
 body{
-  overflow: hidden;
+  background-color: blanchedalmond;
+  overflow: auto;
 }
