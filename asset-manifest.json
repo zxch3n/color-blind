@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/color-blind/static/css/main.c29bcfeb.chunk.css",
-    "main.js": "/color-blind/static/js/main.a263a883.chunk.js",
-    "main.js.map": "/color-blind/static/js/main.a263a883.chunk.js.map",
+    "main.js": "/color-blind/static/js/main.6719b852.chunk.js",
+    "main.js.map": "/color-blind/static/js/main.6719b852.chunk.js.map",
     "runtime-main.js": "/color-blind/static/js/runtime-main.ad62cf75.js",
     "runtime-main.js.map": "/color-blind/static/js/runtime-main.ad62cf75.js.map",
     "static/js/2.b1e8509d.chunk.js": "/color-blind/static/js/2.b1e8509d.chunk.js",
     "static/js/2.b1e8509d.chunk.js.map": "/color-blind/static/js/2.b1e8509d.chunk.js.map",
     "index.html": "/color-blind/index.html",
-    "precache-manifest.d00441ae4891d025752a73eb50777d19.js": "/color-blind/precache-manifest.d00441ae4891d025752a73eb50777d19.js",
+    "precache-manifest.1b7eb5836736c4cd21d76d961e81a501.js": "/color-blind/precache-manifest.1b7eb5836736c4cd21d76d961e81a501.js",
     "service-worker.js": "/color-blind/service-worker.js",
     "static/css/main.c29bcfeb.chunk.css.map": "/color-blind/static/css/main.c29bcfeb.chunk.css.map",
     "static/js/2.b1e8509d.chunk.js.LICENSE": "/color-blind/static/js/2.b1e8509d.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ad62cf75.js",
     "static/js/2.b1e8509d.chunk.js",
     "static/css/main.c29bcfeb.chunk.css",
-    "static/js/main.a263a883.chunk.js"
+    "static/js/main.6719b852.chunk.js"
   ]
 }
